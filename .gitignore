@@ -1,0 +1,12 @@
+# folders
+# "packages" folder should be ignored
+# ".vs" folder should be ignored
+# "<project_name>/bin", "<project_name>/obj", "<project_name>/.nuget" folders should be ignored
+Class.Method.Variable.Type/.nuget/
+Class.Method.Variable.Type/bin/
+Class.Method.Variable.Type/obj/
+packages/
+.vs/
+
+# files
+StyleCop.Cache
